@@ -1,0 +1,21 @@
+date,payee,description,amount,category
+2024-11-01,Stripe,Payment processing,2450.0,Sales / Service
+2024-11-01,Stripe,Processing fees,-73.5,Sales / Service
+2024-11-02,AWS,Cloud hosting services,-189.23,Software & Tools
+2024-11-03,Client Corp,Invoice payment,5000.0,Uncategorized - Review Needed
+2024-11-05,Gusto,Payroll run Nov 1-15,-8250.0,Payroll & Benefits
+2024-11-07,Google Ads,Marketing campaign,-450.0,Marketing & Advertising
+2024-11-08,Office Depot,Office supplies,-127.89,Materials & Supplies
+2024-11-10,Upwork,Freelancer payment,-1200.0,Subcontractors
+2024-11-12,PayPal,Customer payment,750.0,Sales / Service
+2024-11-15,Rent,Office space,-2500.0,Rent & Utilities
+2024-11-16,Vercel,Hosting platform,-120.0,Software & Tools
+2024-11-18,Amazon,Office supplies,-89.45,Materials & Supplies
+2024-11-20,Client Beta,Invoice payment,3500.0,Uncategorized - Review Needed
+2024-11-22,LinkedIn Ads,Recruitment ads,-300.0,Marketing & Advertising
+2024-11-23,Uber,Business travel,-45.67,Travel & Meals
+2024-11-25,Restaurant,Client dinner,-156.89,Travel & Meals
+2024-11-27,Fiverr,Design work,-350.0,Subcontractors
+2024-11-28,Stripe,Payment processing,1890.0,Sales / Service
+2024-11-28,Stripe,Processing fees,-56.7,Sales / Service
+2024-11-30,OpenAI,API usage,-245.0,Software & Tools

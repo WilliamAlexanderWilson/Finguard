@@ -1,0 +1,21 @@
+date,payee,description,amount
+2024-11-01,Stripe,Payment processing,2450.00
+2024-11-01,Stripe,Processing fees,-73.50
+2024-11-02,AWS,Cloud hosting services,-189.23
+2024-11-03,Client Corp,Invoice payment,5000.00
+2024-11-05,Gusto,Payroll run Nov 1-15,-8250.00
+2024-11-07,Google Ads,Marketing campaign,-450.00
+2024-11-08,Office Depot,Office supplies,-127.89
+2024-11-10,Upwork,Freelancer payment,-1200.00
+2024-11-12,PayPal,Customer payment,750.00
+2024-11-15,Rent,Office space,-2500.00
+2024-11-16,Vercel,Hosting platform,-120.00
+2024-11-18,Amazon,Office supplies,-89.45
+2024-11-20,Client Beta,Invoice payment,3500.00
+2024-11-22,LinkedIn Ads,Recruitment ads,-300.00
+2024-11-23,Uber,Business travel,-45.67
+2024-11-25,Restaurant,Client dinner,-156.89
+2024-11-27,Fiverr,Design work,-350.00
+2024-11-28,Stripe,Payment processing,1890.00
+2024-11-28,Stripe,Processing fees,-56.70
+2024-11-30,OpenAI,API usage,-245.00
