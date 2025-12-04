@@ -247,10 +247,10 @@ As a demonstration of:
 
 ## 📞 Contact
 
-Built by [Your Name]
-- Portfolio: [your-portfolio.com]
-- LinkedIn: [your-linkedin]
-- Email: [your-email]
+Built by William Alexander Wilson
+- Portfolio: https://github.com/WilliamAlexanderWilson
+- LinkedIn: https://www.linkedin.com/in/williamwilson1999/
+- Email: wilsonwilliamalex@gmail.com
 
 ---
 
